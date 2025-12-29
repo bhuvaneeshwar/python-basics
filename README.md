@@ -4,3 +4,4 @@ Files
 - hello_world.py : First Python program
 - variables.py   : Python variables example
 - loops.py       : For loop example
+- conditions.py    : If-else and decision making examples
